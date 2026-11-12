@@ -21,3 +21,7 @@ The Artificial Intelligence Engineering major develops students' knowledge, reas
 ## What's in This Org
 
 Repositories here are student and class work from across the major - in-class exercises, competition projects, robotics and computer vision code, research write-ups, and the tools built to document all of it. Individual repositories carry their own README with specifics; this org-level README is just the overview.
+
+## Moderator & Creator
+
+Mr. Raphee Rattanamanoonporn | M.5 AI Major (07) | Contact: mail raphee.rattanamanoonporn@gmail.com , Github Ray0737
