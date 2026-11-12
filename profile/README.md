@@ -1,4 +1,4 @@
-# E-AI — Artificial Intelligence Engineering
+# E-AI Artificial Intelligence Engineering 
 
 E-AI is the GitHub organization for the Artificial Intelligence Engineering major (AI Engineering, internally "E-AI") at Satit Prasarnmit Demonstration School, Secondary Division, Bangkok. This org hosts the code, coursework, and projects produced by students in the major.
 
